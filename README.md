@@ -1,2 +1,0 @@
-# HackCMU
-Handwriting Recognition
